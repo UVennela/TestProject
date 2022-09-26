@@ -5,4 +5,5 @@ $third = $a;
 $b = $third;
 echo "After swapping";
 echo "a=".$a." b=".$b;
+echo "";
 ?>
